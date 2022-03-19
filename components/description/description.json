@@ -1,0 +1,14 @@
+{
+  "collectionName": "Description",
+  "info": {
+    "name": "description",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
